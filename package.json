@@ -14,9 +14,17 @@
     "colors": "^1.4.0",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "mongoose": "^8.9.5"
+    "mongoose": "^8.10.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongduck710/support-desk-by-traversymedia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hongduck710/support-desk-by-traversymedia/issues"
+  },
+  "homepage": "https://github.com/hongduck710/support-desk-by-traversymedia#readme"
 }
